@@ -1,0 +1,41 @@
+{
+  "name": "podcast-app",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Level test for ALTEN",
+  "main": "app.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pau13-loop/Podcast-App.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.2.0"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "typescript",
+    "vite",
+    "spa",
+    "level-test"
+  ],
+  "author": "Pau Llinas Amat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pau13-loop/Podcast-App/issues"
+  },
+  "homepage": "https://github.com/pau13-loop/Podcast-App#readme"
+}
